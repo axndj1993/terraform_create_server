@@ -1,1 +1,1 @@
-# terraform_create_server
+# terraform to create a simple apache server on AWS
